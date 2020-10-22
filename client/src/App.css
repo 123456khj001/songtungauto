@@ -1,0 +1,5 @@
+@import "~antd/dist/antd.css";
+
+.min-height-main {
+  min-height: calc(100vh - 249px);
+}
